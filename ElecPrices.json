@@ -1,950 +1,162 @@
-[
- {
-   "#": 1,
-   "Country": "Antigua and Barbuda",
-   "Code": "AG",
-   "Price": 0.37
- },
- {
-   "#": 2,
-   "Country": "Fiji",
-   "Code": "FJ",
-   "Price": 0.34
- },
- {
-   "#": 3,
-   "Country": "Bahamas",
-   "Code": "BS",
-   "Price": 0.304
- },
- {
-   "#": 4,
-   "Country": "Djibouti",
-   "Code": "DJ",
-   "Price": 0.28
- },
- {
-   "#": 5,
-   "Country": "Cyprus",
-   "Code": "CY",
-   "Price": 0.271
- },
- {
-   "#": 6,
-   "Country": "Dominica",
-   "Code": "DM",
-   "Price": 0.26
- },
- {
-   "#": 7,
-   "Country": "Guyana",
-   "Code": "GY",
-   "Price": 0.26
- },
- {
-   "#": 8,
-   "Country": "Cabo Verde",
-   "Code": "CV",
-   "Price": 0.245
- },
- {
-   "#": 9,
-   "Country": "Jamaica",
-   "Code": "JM",
-   "Price": 0.242
- },
- {
-   "#": 10,
-   "Country": "Nicaragua",
-   "Code": "NI",
-   "Price": 0.24
- },
- {
-   "#": 11,
-   "Country": "Germany",
-   "Code": "DE",
-   "Price": 0.23
- },
- {
-   "#": 12,
-   "Country": "Côte d'Ivoire",
-   "Code": "CI",
-   "Price": 0.221
- },
- {
-   "#": 13,
-   "Country": "Burkina Faso",
-   "Code": "BF",
-   "Price": 0.22
- },
- {
-   "#": 14,
-   "Country": "Italy",
-   "Code": "IT",
-   "Price": 0.219
- },
- {
-   "#": 15,
-   "Country": "Denmark",
-   "Code": "DK",
-   "Price": 0.216
- },
- {
-   "#": 16,
-   "Country": "Japan",
-   "Code": "JP",
-   "Price": 0.208
- },
- {
-   "#": 17,
-   "Country": "Costa Rica",
-   "Code": "CR",
-   "Price": 0.2
- },
- {
-   "#": 18,
-   "Country": "Equatorial Guinea",
-   "Code": "GQ",
-   "Price": 0.2
- },
- {
-   "#": 19,
-   "Country": "Sierra Leone",
-   "Code": "SL",
-   "Price": 0.197
- },
- {
-   "#": 20,
-   "Country": "Barbados",
-   "Code": "BB",
-   "Price": 0.195
- },
- {
-   "#": 21,
-   "Country": "Togo",
-   "Code": "TG",
-   "Price": 0.194
- },
- {
-   "#": 22,
-   "Country": "Panama",
-   "Code": "PA",
-   "Price": 0.192
- },
- {
-   "#": 23,
-   "Country": "Slovakia",
-   "Code": "SK",
-   "Price": 0.192
- },
- {
-   "#": 24,
-   "Country": "Gabon",
-   "Code": "GA",
-   "Price": 0.19
- },
- {
-   "#": 25,
-   "Country": "Gambia",
-   "Code": "GM",
-   "Price": 0.19
- },
- {
-   "#": 26,
-   "Country": "Honduras",
-   "Code": "HN",
-   "Price": 0.181
- },
- {
-   "#": 27,
-   "Country": "Faroe Islands",
-   "Code": "FO",
-   "Price": 0.18
- },
- {
-   "#": 28,
-   "Country": "Belize",
-   "Code": "BZ",
-   "Price": 0.179
- },
- {
-   "#": 29,
-   "Country": "Sweden",
-   "Code": "SE",
-   "Price": 0.179
- },
- {
-   "#": 30,
-   "Country": "Malta",
-   "Code": "MT",
-   "Price": 0.178
- },
- {
-   "#": 31,
-   "Country": "Somalia",
-   "Code": "SO",
-   "Price": 0.177
- },
- {
-   "#": 32,
-   "Country": "Portugal",
-   "Code": "PT",
-   "Price": 0.175
- },
- {
-   "#": 33,
-   "Country": "Austria",
-   "Code": "AT",
-   "Price": 0.171
- },
- {
-   "#": 34,
-   "Country": "Switzerland",
-   "Code": "CH",
-   "Price": 0.17
- },
- {
-   "#": 35,
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
-   "Code": "GB",
-   "Price": 0.17
- },
- {
-   "#": 36,
-   "Country": "Cook Islands",
-   "Code": "CK",
-   "Price": 0.17
- },
- {
-   "#": 37,
-   "Country": "Ireland",
-   "Code": "IE",
-   "Price": 0.17
- },
- {
-   "#": 38,
-   "Country": "New Zealand",
-   "Code": "NZ",
-   "Price": 0.169
- },
- {
-   "#": 39,
-   "Country": "Malawi",
-   "Code": "MW",
-   "Price": 0.167
- },
- {
-   "#": 40,
-   "Country": "Pakistan",
-   "Code": "PK",
-   "Price": 0.165
- },
- {
-   "#": 41,
-   "Country": "Cameroon",
-   "Code": "CM",
-   "Price": 0.162
- },
- {
-   "#": 42,
-   "Country": "Kenya",
-   "Code": "KE",
-   "Price": 0.161
- },
- {
-   "#": 43,
-   "Country": "Andorra",
-   "Code": "AD",
-   "Price": 0.16
- },
- {
-   "#": 44,
-   "Country": "Cambodia",
-   "Code": "KH",
-   "Price": 0.159
- },
- {
-   "#": 45,
-   "Country": "Mexico",
-   "Code": "MX",
-   "Price": 0.157
- },
- {
-   "#": 46,
-   "Country": "Guatemala",
-   "Code": "GT",
-   "Price": 0.156
- },
- {
-   "#": 47,
-   "Country": "Oman",
-   "Code": "OM",
-   "Price": 0.156
- },
- {
-   "#": 48,
-   "Country": "Uganda",
-   "Code": "UG",
-   "Price": 0.156
- },
- {
-   "#": 49,
-   "Country": "Australia",
-   "Code": "AU",
-   "Price": 0.152
- },
- {
-   "#": 50,
-   "Country": "Chile",
-   "Code": "CL",
-   "Price": 0.149
- },
- {
-   "#": 51,
-   "Country": "Colombia",
-   "Code": "CO",
-   "Price": 0.148
- },
- {
-   "#": 52,
-   "Country": "Singapore",
-   "Code": "SG",
-   "Price": 0.148
- },
- {
-   "#": 53,
-   "Country": "Hungary",
-   "Code": "HU",
-   "Price": 0.147
- },
- {
-   "#": 54,
-   "Country": "Poland",
-   "Code": "PL",
-   "Price": 0.146
- },
- {
-   "#": 55,
-   "Country": "Dominican Republic",
-   "Code": "DO",
-   "Price": 0.144
- },
- {
-   "#": 56,
-   "Country": "El Salvador",
-   "Code": "SV",
-   "Price": 0.144
- },
- {
-   "#": 57,
-   "Country": "France",
-   "Code": "FR",
-   "Price": 0.144
- },
- {
-   "#": 58,
-   "Country": "Haiti",
-   "Code": "HT",
-   "Price": 0.144
- },
- {
-   "#": 59,
-   "Country": "Bolivia (Plurinational State of)",
-   "Code": "BO",
-   "Price": 0.14
- },
- {
-   "#": 60,
-   "Country": "Greece",
-   "Code": "GR",
-   "Price": 0.14
- },
- {
-   "#": 61,
-   "Country": "Benin",
-   "Code": "BJ",
-   "Price": 0.14
- },
- {
-   "#": 62,
-   "Country": "Burundi",
-   "Code": "BI",
-   "Price": 0.14
- },
- {
-   "#": 63,
-   "Country": "Central African Republic",
-   "Code": "CF",
-   "Price": 0.14
- },
- {
-   "#": 64,
-   "Country": "Chad",
-   "Code": "TD",
-   "Price": 0.14
- },
- {
-   "#": 65,
-   "Country": "Comoros",
-   "Code": "KM",
-   "Price": 0.14
- },
- {
-   "#": 66,
-   "Country": "Eritrea",
-   "Code": "ER",
-   "Price": 0.14
- },
- {
-   "#": 67,
-   "Country": "Grenada",
-   "Code": "GD",
-   "Price": 0.14
- },
- {
-   "#": 68,
-   "Country": "Guinea",
-   "Code": "GN",
-   "Price": 0.14
- },
- {
-   "#": 69,
-   "Country": "Guinea-Bissau",
-   "Code": "GW",
-   "Price": 0.14
- },
- {
-   "#": 70,
-   "Country": "Ghana",
-   "Code": "GH",
-   "Price": 0.139
- },
- {
-   "#": 71,
-   "Country": "Taiwan",
-   "Code": "TW",
-   "Price": 0.135
- },
- {
-   "#": 72,
-   "Country": "Luxembourg",
-   "Code": "LU",
-   "Price": 0.134
- },
- {
-   "#": 73,
-   "Country": "Mauritius",
-   "Code": "MU",
-   "Price": 0.134
- },
- {
-   "#": 74,
-   "Country": "Peru",
-   "Code": "PE",
-   "Price": 0.132
- },
- {
-   "#": 75,
-   "Country": "Botswana",
-   "Code": "BW",
-   "Price": 0.131
- },
- {
-   "#": 76,
-   "Country": "Romania",
-   "Code": "RO",
-   "Price": 0.125
- },
- {
-   "#": 77,
-   "Country": "Jordan",
-   "Code": "JO",
-   "Price": 0.123
- },
- {
-   "#": 78,
-   "Country": "Albania",
-   "Code": "AL",
-   "Price": 0.122
- },
- {
-   "#": 79,
-   "Country": "Spain",
-   "Code": "ES",
-   "Price": 0.122
- },
- {
-   "#": 80,
-   "Country": "United Arab Emirates",
-   "Code": "AE",
-   "Price": 0.122
- },
- {
-   "#": 81,
-   "Country": "Bosnia and Herzegovina",
-   "Code": "BA",
-   "Price": 0.121
- },
- {
-   "#": 82,
-   "Country": "Thailand",
-   "Code": "TH",
-   "Price": 0.121
- },
- {
-   "#": 83,
-   "Country": "Belgium",
-   "Code": "BE",
-   "Price": 0.12
- },
- {
-   "#": 84,
-   "Country": "Croatia",
-   "Code": "HR",
-   "Price": 0.12
- },
- {
-   "#": 85,
-   "Country": "Morocco",
-   "Code": "MA",
-   "Price": 0.12
- },
- {
-   "#": 86,
-   "Country": "Brazil",
-   "Code": "BR",
-   "Price": 0.118
- },
- {
-   "#": 87,
-   "Country": "Finland",
-   "Code": "FI",
-   "Price": 0.118
- },
- {
-   "#": 88,
-   "Country": "Latvia",
-   "Code": "LV",
-   "Price": 0.118
- },
- {
-   "#": 89,
-   "Country": "Madagascar",
-   "Code": "MG",
-   "Price": 0.117
- },
- {
-   "#": 90,
-   "Country": "Myanmar",
-   "Code": "MM",
-   "Price": 0.117
- },
- {
-   "#": 91,
-   "Country": "India",
-   "Code": "IN",
-   "Price": 0.115
- },
- {
-   "#": 92,
-   "Country": "Philippines",
-   "Code": "PH",
-   "Price": 0.114
- },
- {
-   "#": 93,
-   "Country": "Slovenia",
-   "Code": "SI",
-   "Price": 0.113
- },
- {
-   "#": 94,
-   "Country": "Netherlands",
-   "Code": "NL",
-   "Price": 0.112
- },
- {
-   "#": 95,
-   "Country": "United States of America",
-   "Code": "US",
-   "Price": 0.111
- },
- {
-   "#": 96,
-   "Country": "Tunisia",
-   "Code": "TN",
-   "Price": 0.11
- },
- {
-   "#": 97,
-   "Country": "Czechia",
-   "Code": "CZ",
-   "Price": 0.109
- },
- {
-   "#": 98,
-   "Country": "Bangladesh",
-   "Code": "BD",
-   "Price": 0.106
- },
- {
-   "#": 99,
-   "Country": "Estonia",
-   "Code": "EE",
-   "Price": 0.106
- },
- {
-   "#": 100,
-   "Country": "North Macedonia",
-   "Code": "MK",
-   "Price": 0.106
- },
- {
-   "#": 101,
-   "Country": "Democratic People's Republic of Korea",
-   "Code": "KP",
-   "Price": 0.105
- },
- {
-   "#": 102,
-   "Country": "Republic of Korea",
-   "Code": "KR",
-   "Price": 0.105
- },
- {
-   "#": 103,
-   "Country": "Serbia",
-   "Code": "RS",
-   "Price": 0.105
- },
- {
-   "#": 104,
-   "Country": "Malaysia",
-   "Code": "MY",
-   "Price": 0.104
- },
- {
-   "#": 105,
-   "Country": "Bulgaria",
-   "Code": "BG",
-   "Price": 0.103
- },
- {
-   "#": 106,
-   "Country": "China",
-   "Code": "CN",
-   "Price": 0.103
- },
- {
-   "#": 107,
-   "Country": "United Republic of Tanzania",
-   "Code": "TZ",
-   "Price": 0.102
- },
- {
-   "#": 108,
-   "Country": "Israel",
-   "Code": "IL",
-   "Price": 0.1
- },
- {
-   "#": 109,
-   "Country": "Congo",
-   "Code": "CG",
-   "Price": 0.099
- },
- {
-   "#": 110,
-   "Country": "Democratic Republic of the Congo",
-   "Code": "CD",
-   "Price": 0.099
- },
- {
-   "#": 111,
-   "Country": "Nigeria",
-   "Code": "NG",
-   "Price": 0.097
- },
- {
-   "#": 112,
-   "Country": "Lebanon",
-   "Code": "LB",
-   "Price": 0.096
- },
- {
-   "#": 113,
-   "Country": "Rwanda",
-   "Code": "RW",
-   "Price": 0.096
- },
- {
-   "#": 114,
-   "Country": "Belarus",
-   "Code": "BY",
-   "Price": 0.094
- },
- {
-   "#": 115,
-   "Country": "Turkey",
-   "Code": "TR",
-   "Price": 0.093
- },
- {
-   "#": 116,
-   "Country": "Uruguay",
-   "Code": "UY",
-   "Price": 0.092
- },
- {
-   "#": 117,
-   "Country": "Canada",
-   "Code": "CA",
-   "Price": 0.088
- },
- {
-   "#": 118,
-   "Country": "Republic of Moldova",
-   "Code": "MD",
-   "Price": 0.086
- },
- {
-   "#": 119,
-   "Country": "Uzbekistan",
-   "Code": "UZ",
-   "Price": 0.086
- },
- {
-   "#": 120,
-   "Country": "Ecuador",
-   "Code": "EC",
-   "Price": 0.085
- },
- {
-   "#": 121,
-   "Country": "Lithuania",
-   "Code": "LT",
-   "Price": 0.083
- },
- {
-   "#": 122,
-   "Country": "Russian Federation",
-   "Code": "RU",
-   "Price": 0.081
- },
- {
-   "#": 123,
-   "Country": "Nepal",
-   "Code": "NP",
-   "Price": 0.08
- },
- {
-   "#": 124,
-   "Country": "Ukraine",
-   "Code": "UA",
-   "Price": 0.08
- },
- {
-   "#": 125,
-   "Country": "Swaziland",
-   "Code": "SZ",
-   "Price": 0.078
- },
- {
-   "#": 126,
-   "Country": "Bahrain",
-   "Code": "BH",
-   "Price": 0.077
- },
- {
-   "#": 127,
-   "Country": "Viet Nam",
-   "Code": "VN",
-   "Price": 0.077
- },
- {
-   "#": 128,
-   "Country": "Egypt",
-   "Code": "EG",
-   "Price": 0.073
- },
- {
-   "#": 129,
-   "Country": "Indonesia",
-   "Code": "ID",
-   "Price": 0.072
- },
- {
-   "#": 130,
-   "Country": "South Africa",
-   "Code": "ZA",
-   "Price": 0.071
- },
- {
-   "#": 131,
-   "Country": "Saudi Arabia",
-   "Code": "SA",
-   "Price": 0.069
- },
- {
-   "#": 132,
-   "Country": "Armenia",
-   "Code": "AM",
-   "Price": 0.068
- },
- {
-   "#": 133,
-   "Country": "Sri Lanka",
-   "Code": "LK",
-   "Price": 0.065
- },
- {
-   "#": 134,
-   "Country": "Iran (Islamic Republic of)",
-   "Code": "IR",
-   "Price": 0.06
- },
- {
-   "#": 135,
-   "Country": "Brunei Darussalam",
-   "Code": "BN",
-   "Price": 0.059
- },
- {
-   "#": 136,
-   "Country": "Mozambique",
-   "Code": "MZ",
-   "Price": 0.054
- },
- {
-   "#": 137,
-   "Country": "Azerbaijan",
-   "Code": "AZ",
-   "Price": 0.053
- },
- {
-   "#": 138,
-   "Country": "Kazakhstan",
-   "Code": "KZ",
-   "Price": 0.053
- },
- {
-   "#": 139,
-   "Country": "Trinidad and Tobago",
-   "Code": "TT",
-   "Price": 0.053
- },
- {
-   "#": 140,
-   "Country": "Paraguay",
-   "Code": "PY",
-   "Price": 0.051
- },
- {
-   "#": 141,
-   "Country": "Georgia",
-   "Code": "GE",
-   "Price": 0.05
- },
- {
-   "#": 142,
-   "Country": "Kuwait",
-   "Code": "KW",
-   "Price": 0.05
- },
- {
-   "#": 143,
-   "Country": "Norway",
-   "Code": "NO",
-   "Price": 0.05
- },
- {
-   "#": 144,
-   "Country": "Iceland",
-   "Code": "IS",
-   "Price": 0.049
- },
- {
-   "#": 145,
-   "Country": "Afghanistan",
-   "Code": "AF",
-   "Price": 0.048
- },
- {
-   "#": 146,
-   "Country": "Zambia",
-   "Code": "ZM",
-   "Price": 0.047
- },
- {
-   "#": 147,
-   "Country": "Argentina",
-   "Code": "AR",
-   "Price": 0.043
- },
- {
-   "#": 148,
-   "Country": "Iraq",
-   "Code": "IQ",
-   "Price": 0.036
- },
- {
-   "#": 149,
-   "Country": "Qatar",
-   "Code": "QA",
-   "Price": 0.036
- },
- {
-   "#": 150,
-   "Country": "Algeria",
-   "Code": "DZ",
-   "Price": 0.034
- },
- {
-   "#": 151,
-   "Country": "Bhutan",
-   "Code": "BT",
-   "Price": 0.032
- },
- {
-   "#": 152,
-   "Country": "Kyrgyzstan",
-   "Code": "KG",
-   "Price": 0.03
- },
- {
-   "#": 153,
-   "Country": "Lesotho",
-   "Code": "LS",
-   "Price": 0.022
- },
- {
-   "#": 154,
-   "Country": "Cuba",
-   "Code": "CU",
-   "Price": 0.02
- },
- {
-   "#": 155,
-   "Country": "Ethiopia",
-   "Code": "ET",
-   "Price": 0.02
- },
- {
-   "#": 156,
-   "Country": "Angola",
-   "Code": "AO",
-   "Price": 0.015
- },
- {
-   "#": 157,
-   "Country": "Libya",
-   "Code": "LY",
-   "Price": 0.007
- },
- {
-   "#": 158,
-   "Country": "South Sudan",
-   "Code": "SS",
-   "Price": 0.001
- }
-]
+{
+  "ElecPrices": {
+    "AD": 0.16,
+    "AE": 0.122,
+    "AF": 0.048,
+    "AG": 0.37,
+    "AL": 0.122,
+    "AM": 0.068,
+    "AO": 0.015,
+    "AR": 0.043,
+    "AT": 0.171,
+    "AU": 0.152,
+    "AZ": 0.053,
+    "BA": 0.121,
+    "BB": 0.195,
+    "BD": 0.106,
+    "BE": 0.12,
+    "BF": 0.22,
+    "BG": 0.103,
+    "BH": 0.077,
+    "BI": 0.14,
+    "BJ": 0.14,
+    "BN": 0.059,
+    "BO": 0.14,
+    "BR": 0.118,
+    "BS": 0.304,
+    "BT": 0.032,
+    "BW": 0.131,
+    "BY": 0.094,
+    "BZ": 0.179,
+    "CA": 0.088,
+    "CD": 0.099,
+    "CF": 0.14,
+    "CG": 0.099,
+    "CH": 0.17,
+    "CI": 0.221,
+    "CK": 0.17,
+    "CL": 0.149,
+    "CM": 0.162,
+    "CN": 0.103,
+    "CO": 0.148,
+    "CR": 0.2,
+    "CU": 0.02,
+    "CV": 0.245,
+    "CY": 0.271,
+    "CZ": 0.109,
+    "DE": 0.23,
+    "DJ": 0.28,
+    "DK": 0.216,
+    "DM": 0.26,
+    "DO": 0.144,
+    "DZ": 0.034,
+    "EC": 0.085,
+    "EE": 0.106,
+    "EG": 0.073,
+    "ER": 0.14,
+    "ES": 0.122,
+    "ET": 0.02,
+    "FI": 0.118,
+    "FJ": 0.34,
+    "FO": 0.18,
+    "FR": 0.144,
+    "GA": 0.19,
+    "GB": 0.17,
+    "GD": 0.14,
+    "GE": 0.05,
+    "GH": 0.139,
+    "GM": 0.19,
+    "GN": 0.14,
+    "GQ": 0.2,
+    "GR": 0.14,
+    "GT": 0.156,
+    "GW": 0.14,
+    "GY": 0.26,
+    "HN": 0.181,
+    "HR": 0.12,
+    "HT": 0.144,
+    "HU": 0.147,
+    "ID": 0.072,
+    "IE": 0.17,
+    "IL": 0.1,
+    "IN": 0.115,
+    "IQ": 0.036,
+    "IR": 0.06,
+    "IS": 0.049,
+    "IT": 0.219,
+    "JM": 0.242,
+    "JO": 0.123,
+    "JP": 0.208,
+    "KE": 0.161,
+    "KG": 0.03,
+    "KH": 0.159,
+    "KM": 0.14,
+    "KP": 0.105,
+    "KR": 0.105,
+    "KW": 0.05,
+    "KZ": 0.053,
+    "LB": 0.096,
+    "LK": 0.065,
+    "LS": 0.022,
+    "LT": 0.083,
+    "LU": 0.134,
+    "LV": 0.118,
+    "LY": 0.007,
+    "MA": 0.12,
+    "MD": 0.086,
+    "MG": 0.117,
+    "MK": 0.106,
+    "MM": 0.117,
+    "MT": 0.178,
+    "MU": 0.134,
+    "MW": 0.167,
+    "MX": 0.157,
+    "MY": 0.104,
+    "MZ": 0.054,
+    "NG": 0.097,
+    "NI": 0.24,
+    "NL": 0.112,
+    "NO": 0.05,
+    "NP": 0.08,
+    "NZ": 0.1688,
+    "OM": 0.156,
+    "PA": 0.192,
+    "PE": 0.132,
+    "PH": 0.114,
+    "PK": 0.165,
+    "PL": 0.146,
+    "PT": 0.175,
+    "PY": 0.051,
+    "QA": 0.036,
+    "RO": 0.125,
+    "RS": 0.105,
+    "RU": 0.081,
+    "RW": 0.096,
+    "SA": 0.069,
+    "SE": 0.179,
+    "SG": 0.148,
+    "SI": 0.113,
+    "SK": 0.192,
+    "SL": 0.197,
+    "SO": 0.177,
+    "SS": 0.001,
+    "SV": 0.144,
+    "SZ": 0.078,
+    "TD": 0.14,
+    "TG": 0.194,
+    "TH": 0.121,
+    "TN": 0.11,
+    "TR": 0.093,
+    "TT": 0.053,
+    "TW": 0.135,
+    "TZ": 0.102,
+    "UA": 0.08,
+    "UG": 0.156,
+    "US": 0.111,
+    "UY": 0.092,
+    "UZ": 0.086,
+    "VN": 0.077,
+    "ZA": 0.071,
+    "ZM": 0.047
+  }
+}
